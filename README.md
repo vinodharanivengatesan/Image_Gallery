@@ -208,6 +208,14 @@ Publish the website in the given URL.
 ## OUTPUT
 <img width="1870" height="856" alt="Screenshot 2026-05-28 222748" src="https://github.com/user-attachments/assets/8eaf2e61-5b0a-4fe0-b21e-5c9146954607" />
 
+<img width="1877" height="857" alt="Screenshot 2026-05-28 222817" src="https://github.com/user-attachments/assets/b936a61e-18dd-4a07-a038-cb79b9dbbcbb" />
+
+<img width="1875" height="854" alt="Screenshot 2026-05-28 222832" src="https://github.com/user-attachments/assets/c8ec7021-1763-4316-81e3-2e26e6ed96e9" />
+
+<img width="1871" height="858" alt="Screenshot 2026-05-28 222851" src="https://github.com/user-attachments/assets/0eaa5083-505b-41a5-9557-936573956ada" />
+
+
+
 
 ## RESULT
   The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
